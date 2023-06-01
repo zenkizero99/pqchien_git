@@ -1,2 +1,3 @@
 đây là file 1 update
 đây là file 1 update 2
+đây là file 1 update 2 conflict
